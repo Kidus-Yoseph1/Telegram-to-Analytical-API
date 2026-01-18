@@ -33,8 +33,8 @@ async def scrape_channel(client, channel_link, bouncer):
         scraped_data = []
         
         try:
-            # Iterating through ALL messages
-            async for message in client.iter_messages(channel_link):
+            # Iterating through 1000 messages
+            async for message in client.iter_messages(channel_link, limit=1000):
                 # Extraction
                 msg_obj = TelegramMessage(
                     msg_id=message.id,
