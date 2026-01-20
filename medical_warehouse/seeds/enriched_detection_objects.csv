@@ -1,0 +1,1552 @@
+image_path,detected_objects,max_confidence,image_category
+data/raw/images/CheMed123/10.jpg,,0.0,unclassified
+data/raw/images/CheMed123/11.jpg,,0.0,unclassified
+data/raw/images/CheMed123/13.jpg,hot dog,0.5038585066795349,unclassified
+data/raw/images/CheMed123/14.jpg,,0.0,unclassified
+data/raw/images/CheMed123/15.jpg,,0.0,unclassified
+data/raw/images/CheMed123/17.jpg,bottle,0.525965690612793,product_listing
+data/raw/images/CheMed123/18.jpg,,0.0,unclassified
+data/raw/images/CheMed123/19.jpg,"person, person",0.9401440024375916,lifestyle_shot
+data/raw/images/CheMed123/2.jpg,,0.0,unclassified
+data/raw/images/CheMed123/20.jpg,"person, person",0.9401440024375916,lifestyle_shot
+data/raw/images/CheMed123/21.jpg,,0.0,unclassified
+data/raw/images/CheMed123/22.jpg,,0.0,unclassified
+data/raw/images/CheMed123/23.jpg,cell phone,0.6106988191604614,product_listing
+data/raw/images/CheMed123/25.jpg,"cell phone, person",0.8613091707229614,promotional_ad
+data/raw/images/CheMed123/26.jpg,person,0.8275558352470398,lifestyle_shot
+data/raw/images/CheMed123/27.jpg,,0.0,unclassified
+data/raw/images/CheMed123/29.jpg,"person, surfboard, person",0.6185246109962463,lifestyle_shot
+data/raw/images/CheMed123/3.jpg,,0.0,unclassified
+data/raw/images/CheMed123/30.jpg,,0.0,unclassified
+data/raw/images/CheMed123/31.jpg,bottle,0.5125069618225098,product_listing
+data/raw/images/CheMed123/32.jpg,person,0.5881934762001038,lifestyle_shot
+data/raw/images/CheMed123/33.jpg,"orange, orange",0.6712228655815125,unclassified
+data/raw/images/CheMed123/34.jpg,,0.0,unclassified
+data/raw/images/CheMed123/38.jpg,,0.0,unclassified
+data/raw/images/CheMed123/39.jpg,"mouse, mouse, mouse, mouse, mouse, mouse, mouse",0.9113696217536926,unclassified
+data/raw/images/CheMed123/4.jpg,,0.0,unclassified
+data/raw/images/CheMed123/40.jpg,"person, person, person, person, person, person",0.7191451787948608,lifestyle_shot
+data/raw/images/CheMed123/41.jpg,,0.0,unclassified
+data/raw/images/CheMed123/43.jpg,person,0.8564761281013489,lifestyle_shot
+data/raw/images/CheMed123/44.jpg,"cell phone, person",0.9386717081069946,promotional_ad
+data/raw/images/CheMed123/45.jpg,scissors,0.631992757320404,unclassified
+data/raw/images/CheMed123/46.jpg,person,0.82721346616745,lifestyle_shot
+data/raw/images/CheMed123/48.jpg,,0.0,unclassified
+data/raw/images/CheMed123/49.jpg,kite,0.6801502108573914,unclassified
+data/raw/images/CheMed123/50.jpg,,0.0,unclassified
+data/raw/images/CheMed123/52.jpg,"person, person, horse, person",0.7039298415184021,lifestyle_shot
+data/raw/images/CheMed123/53.jpg,person,0.5737698674201965,lifestyle_shot
+data/raw/images/CheMed123/55.jpg,,0.0,unclassified
+data/raw/images/CheMed123/56.jpg,person,0.8329591751098633,lifestyle_shot
+data/raw/images/CheMed123/57.jpg,"person, potted plant, potted plant, potted plant",0.8896957039833069,lifestyle_shot
+data/raw/images/CheMed123/58.jpg,,0.0,unclassified
+data/raw/images/CheMed123/59.jpg,,0.0,unclassified
+data/raw/images/CheMed123/60.jpg,,0.0,unclassified
+data/raw/images/CheMed123/64.jpg,person,0.6864565014839172,lifestyle_shot
+data/raw/images/CheMed123/67.jpg,stop sign,0.5792256593704224,unclassified
+data/raw/images/CheMed123/70.jpg,"potted plant, person",0.9247003793716431,lifestyle_shot
+data/raw/images/CheMed123/71.jpg,"person, person",0.8835614919662476,lifestyle_shot
+data/raw/images/CheMed123/74.jpg,,0.0,unclassified
+data/raw/images/CheMed123/75.jpg,person,0.8353003263473511,lifestyle_shot
+data/raw/images/CheMed123/76.jpg,person,0.8694232106208801,lifestyle_shot
+data/raw/images/CheMed123/77.jpg,"bottle, bottle, bottle, bottle",0.9558238387107849,product_listing
+data/raw/images/CheMed123/78.jpg,person,0.7698588371276855,lifestyle_shot
+data/raw/images/CheMed123/79.jpg,,0.0,unclassified
+data/raw/images/CheMed123/80.jpg,"person, bottle, chair",0.9279417395591736,promotional_ad
+data/raw/images/CheMed123/81.jpg,"bottle, bottle, bottle, bottle, bottle",0.8817967176437378,product_listing
+data/raw/images/CheMed123/82.jpg,"bottle, bottle, bottle",0.8991730213165283,product_listing
+data/raw/images/CheMed123/85.jpg,,0.0,unclassified
+data/raw/images/CheMed123/86.jpg,person,0.9013165235519409,lifestyle_shot
+data/raw/images/CheMed123/87.jpg,,0.0,unclassified
+data/raw/images/CheMed123/88.jpg,,0.0,unclassified
+data/raw/images/CheMed123/9.jpg,,0.0,unclassified
+data/raw/images/CheMed123/90.jpg,,0.0,unclassified
+data/raw/images/CheMed123/91.jpg,,0.0,unclassified
+data/raw/images/CheMed123/92.jpg,,0.0,unclassified
+data/raw/images/CheMed123/93.jpg,person,0.9076735377311707,lifestyle_shot
+data/raw/images/CheMed123/94.jpg,cup,0.7408677935600281,unclassified
+data/raw/images/CheMed123/95.jpg,person,0.868440568447113,lifestyle_shot
+data/raw/images/CheMed123/96.jpg,,0.0,unclassified
+data/raw/images/CheMed123/97.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21934.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21935.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21936.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21937.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21938.jpg,donut,0.5591663718223572,unclassified
+data/raw/images/lobelia4cosmetics/21939.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21940.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/21941.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21942.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21943.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21944.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21945.jpg,bottle,0.5716472864151001,product_listing
+data/raw/images/lobelia4cosmetics/21946.jpg,bottle,0.8543919324874878,product_listing
+data/raw/images/lobelia4cosmetics/21947.jpg,bottle,0.8224154710769653,product_listing
+data/raw/images/lobelia4cosmetics/21948.jpg,bottle,0.5305013656616211,product_listing
+data/raw/images/lobelia4cosmetics/21949.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21950.jpg,bottle,0.8953953385353088,product_listing
+data/raw/images/lobelia4cosmetics/21951.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21952.jpg,bottle,0.7200613617897034,product_listing
+data/raw/images/lobelia4cosmetics/21953.jpg,bottle,0.69941645860672,product_listing
+data/raw/images/lobelia4cosmetics/21954.jpg,bottle,0.6595379710197449,product_listing
+data/raw/images/lobelia4cosmetics/21955.jpg,bottle,0.501645565032959,product_listing
+data/raw/images/lobelia4cosmetics/21956.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21957.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21958.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21959.jpg,bottle,0.7241219878196716,product_listing
+data/raw/images/lobelia4cosmetics/21960.jpg,bottle,0.5719438195228577,product_listing
+data/raw/images/lobelia4cosmetics/21961.jpg,bottle,0.9162958860397339,product_listing
+data/raw/images/lobelia4cosmetics/21962.jpg,cell phone,0.6242877244949341,product_listing
+data/raw/images/lobelia4cosmetics/21963.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21964.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21965.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21966.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21967.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/21968.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21969.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21970.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21971.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21972.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21973.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/21974.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21975.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21976.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21977.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21978.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21979.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21980.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21981.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21982.jpg,bottle,0.8308451175689697,product_listing
+data/raw/images/lobelia4cosmetics/21983.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/21984.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21985.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/21986.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21987.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21988.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21989.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21990.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/21991.jpg,bottle,0.7726439237594604,product_listing
+data/raw/images/lobelia4cosmetics/21992.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21993.jpg,scissors,0.5893494486808777,unclassified
+data/raw/images/lobelia4cosmetics/21994.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21995.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21996.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21997.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21998.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/21999.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22000.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22001.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22002.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22003.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22004.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22005.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22006.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22007.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22008.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22009.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22010.jpg,cup,0.5273937582969666,unclassified
+data/raw/images/lobelia4cosmetics/22011.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22012.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22013.jpg,banana,0.7397515773773193,unclassified
+data/raw/images/lobelia4cosmetics/22014.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22015.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22016.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22017.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22018.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22019.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22020.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22021.jpg,bottle,0.9375599026679993,product_listing
+data/raw/images/lobelia4cosmetics/22022.jpg,bottle,0.9479014277458191,product_listing
+data/raw/images/lobelia4cosmetics/22023.jpg,bottle,0.5596919655799866,product_listing
+data/raw/images/lobelia4cosmetics/22026.jpg,"person, person, person",0.889441728591919,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22029.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22030.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22031.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22032.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22033.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22034.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22035.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22036.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22037.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22038.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22039.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22040.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22041.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22042.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22043.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22044.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22045.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22046.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22047.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22048.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22049.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22050.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22051.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22052.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22053.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22054.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22055.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22056.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22057.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22058.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22059.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22060.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22061.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22062.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22063.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22064.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22065.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22066.jpg,bottle,0.8599440455436707,product_listing
+data/raw/images/lobelia4cosmetics/22067.jpg,cup,0.5273937582969666,unclassified
+data/raw/images/lobelia4cosmetics/22068.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22069.jpg,banana,0.7397515773773193,unclassified
+data/raw/images/lobelia4cosmetics/22070.jpg,bottle,0.7726439237594604,product_listing
+data/raw/images/lobelia4cosmetics/22071.jpg,bottle,0.8308451175689697,product_listing
+data/raw/images/lobelia4cosmetics/22072.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22073.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22074.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22075.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22076.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22077.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22078.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22079.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22080.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22081.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22082.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22083.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22084.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22085.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22086.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22087.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22088.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22089.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22090.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22091.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22092.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22093.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22094.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22095.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22096.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22097.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22098.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22099.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22100.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22101.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22102.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22103.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22104.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22105.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22106.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22107.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22108.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22109.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22110.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22111.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22112.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22113.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22114.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22115.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22116.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22117.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22118.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22119.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22120.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22121.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22122.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22123.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22124.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22125.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22126.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22127.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22128.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22129.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22130.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22131.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22132.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22133.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22134.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22135.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22136.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22137.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22138.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22139.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22140.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22141.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22142.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22143.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22144.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22145.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22146.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22147.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22148.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22149.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22150.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22151.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22152.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22153.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22154.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22155.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22156.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22157.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22158.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22159.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22160.jpg,bottle,0.501645565032959,product_listing
+data/raw/images/lobelia4cosmetics/22161.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22162.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22163.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22164.jpg,bottle,0.7241219878196716,product_listing
+data/raw/images/lobelia4cosmetics/22165.jpg,bottle,0.5719438195228577,product_listing
+data/raw/images/lobelia4cosmetics/22166.jpg,bottle,0.9162958860397339,product_listing
+data/raw/images/lobelia4cosmetics/22167.jpg,cell phone,0.6242877244949341,product_listing
+data/raw/images/lobelia4cosmetics/22168.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22169.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22170.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22171.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22172.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22173.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22174.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22175.jpg,bottle,0.7726439237594604,product_listing
+data/raw/images/lobelia4cosmetics/22176.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22177.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22178.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22179.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22180.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22181.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22182.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22183.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22184.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22185.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22186.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22187.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22188.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22189.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22190.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22191.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22192.jpg,bottle,0.9517492055892944,product_listing
+data/raw/images/lobelia4cosmetics/22193.jpg,bottle,0.8129154443740845,product_listing
+data/raw/images/lobelia4cosmetics/22194.jpg,bottle,0.704883337020874,product_listing
+data/raw/images/lobelia4cosmetics/22195.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22196.jpg,cup,0.6775092482566833,unclassified
+data/raw/images/lobelia4cosmetics/22197.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22198.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22199.jpg,cup,0.617678165435791,unclassified
+data/raw/images/lobelia4cosmetics/22200.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22201.jpg,cup,0.5479635000228882,unclassified
+data/raw/images/lobelia4cosmetics/22202.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22203.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22204.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22205.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22206.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22207.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22208.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22209.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22210.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22211.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22212.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22213.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22214.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22215.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22216.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22217.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22218.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22219.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22220.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22221.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22222.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22223.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22224.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22225.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22226.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22227.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22228.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22229.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22230.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22231.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22232.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22233.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22234.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22235.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22236.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22237.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22238.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22239.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22240.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22241.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22242.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22243.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22244.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22245.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22246.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22247.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22248.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22249.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22250.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22251.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22252.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22253.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22254.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22255.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22256.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22257.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22258.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22259.jpg,bottle,0.7726439237594604,product_listing
+data/raw/images/lobelia4cosmetics/22260.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22261.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22262.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22263.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22264.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22265.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22266.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22267.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22268.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22269.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22270.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22271.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22272.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22273.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22274.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22275.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22276.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22277.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22278.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22279.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22280.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22281.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22282.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22283.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22284.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22285.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22286.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22287.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22288.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22289.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22290.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22291.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22292.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22293.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22294.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22295.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22296.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22297.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22298.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22299.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22300.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22301.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22302.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22303.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22304.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22305.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22306.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22307.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22308.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22309.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22310.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22311.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22312.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22313.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22314.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22315.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22316.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22317.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22318.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22319.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22320.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22321.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22322.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22323.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22324.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22325.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22326.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22327.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22328.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22329.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22330.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22331.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22332.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22333.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22334.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22335.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22336.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22337.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22338.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22339.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22340.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22341.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22342.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22343.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22344.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22345.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22346.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22347.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22348.jpg,bottle,0.940760612487793,product_listing
+data/raw/images/lobelia4cosmetics/22349.jpg,bottle,0.9543537497520447,product_listing
+data/raw/images/lobelia4cosmetics/22350.jpg,bottle,0.841687023639679,product_listing
+data/raw/images/lobelia4cosmetics/22351.jpg,bottle,0.7357080578804016,product_listing
+data/raw/images/lobelia4cosmetics/22352.jpg,bottle,0.9070147275924683,product_listing
+data/raw/images/lobelia4cosmetics/22353.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22354.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22356.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22357.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22358.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22359.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22360.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22361.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22362.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22363.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22364.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22365.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22366.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22367.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22368.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22369.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22370.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22371.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22372.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22373.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22374.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22375.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22376.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22377.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22378.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22379.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22380.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22381.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22382.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22383.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22384.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22385.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22386.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22387.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22388.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22389.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22390.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22391.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22392.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22393.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22394.jpg,person,0.6146905422210693,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22395.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22396.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22397.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22398.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22399.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22400.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22401.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22402.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22403.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22404.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22405.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22406.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22407.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22408.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22409.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22410.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22411.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22412.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22413.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22414.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22415.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22416.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22417.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22418.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22419.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22420.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22421.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22422.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22423.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22424.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22425.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22426.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22427.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22428.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22429.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22430.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22431.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22432.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22433.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22434.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22435.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22436.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22437.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22438.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22439.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22440.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22441.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22442.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22443.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22444.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22445.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22446.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22447.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22448.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22449.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22450.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22451.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22452.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22453.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22454.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22455.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22456.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22457.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22458.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22459.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22460.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22461.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22462.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22463.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22464.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22465.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22466.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22467.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22468.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22469.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22470.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22471.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22472.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22473.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22474.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22475.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22476.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22477.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22478.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22479.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22480.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22481.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22482.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22483.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22484.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22485.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22486.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22487.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22488.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22489.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22490.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22491.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22492.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22493.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22494.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22495.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22496.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22497.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22498.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22499.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22500.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22501.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22502.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22503.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22504.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22505.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22506.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22507.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22508.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22509.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22510.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22511.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22512.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22513.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22514.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22515.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22516.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22517.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22518.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22519.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22520.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22521.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22522.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22523.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22524.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22525.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22526.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22527.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22528.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22529.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22530.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22531.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22532.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22533.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22534.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22535.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22536.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22537.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22538.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22539.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22540.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22541.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22542.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22543.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22544.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22545.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22546.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22547.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22548.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22549.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22550.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22551.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22552.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22553.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22554.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22555.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22556.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22557.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22558.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22559.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22560.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22561.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22562.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22563.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22564.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22565.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22566.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22567.jpg,person,0.8363927006721497,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22568.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22569.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22570.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22571.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22572.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22573.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22574.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22575.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22576.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22577.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22578.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22579.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22580.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22581.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22582.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22583.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22584.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22585.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22586.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22587.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22588.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22589.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22590.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22591.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22592.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22593.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22594.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22595.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22596.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22597.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22598.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22599.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22600.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22601.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22602.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22603.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22604.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22605.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22606.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22607.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22608.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22609.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22610.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22611.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22612.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22613.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22614.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22615.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22616.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22617.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22618.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22619.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22620.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22621.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22622.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22623.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22624.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22625.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22626.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22627.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22628.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22629.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22630.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22631.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22632.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22633.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22634.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22635.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22636.jpg,"person, refrigerator",0.8406544327735901,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22637.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22638.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22639.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22640.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22641.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22642.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22643.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22644.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22645.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22646.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22647.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22648.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22649.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22650.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22651.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22652.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22653.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22654.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22655.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22656.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22657.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22658.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22659.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22660.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22661.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22662.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22663.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22664.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22665.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22666.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22667.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22668.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22669.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22670.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22671.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22672.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22673.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22674.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22675.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22676.jpg,bottle,0.5251970887184143,product_listing
+data/raw/images/lobelia4cosmetics/22677.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22678.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22679.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22680.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22681.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22682.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22683.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22685.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22686.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22687.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22688.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22689.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22690.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22691.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22692.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22693.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22694.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22695.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22696.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22697.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22698.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22699.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22700.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22701.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22702.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22703.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22704.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22705.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22706.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22707.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22708.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22709.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22710.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22711.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22712.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22713.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22714.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22715.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22716.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22717.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22718.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22719.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22720.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22721.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22722.jpg,bottle,0.5716472864151001,product_listing
+data/raw/images/lobelia4cosmetics/22723.jpg,bottle,0.8543919324874878,product_listing
+data/raw/images/lobelia4cosmetics/22724.jpg,bottle,0.8224154710769653,product_listing
+data/raw/images/lobelia4cosmetics/22725.jpg,bottle,0.5305013656616211,product_listing
+data/raw/images/lobelia4cosmetics/22726.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22727.jpg,bottle,0.8953953385353088,product_listing
+data/raw/images/lobelia4cosmetics/22728.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22729.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22730.jpg,bottle,0.8308451175689697,product_listing
+data/raw/images/lobelia4cosmetics/22731.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22732.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22733.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22734.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22735.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22736.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22737.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22738.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22739.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22740.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22741.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22742.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22743.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22744.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22745.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22746.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22747.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22748.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22749.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22750.jpg,bottle,0.8308451175689697,product_listing
+data/raw/images/lobelia4cosmetics/22751.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22752.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22753.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22754.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22755.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22756.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22757.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22758.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22759.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22760.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22761.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22762.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22763.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22764.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22765.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22766.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22767.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22768.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22769.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22770.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22771.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22772.jpg,bottle,0.8075851202011108,product_listing
+data/raw/images/lobelia4cosmetics/22773.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22774.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22775.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22776.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22777.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22778.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22779.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22780.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22781.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22782.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22783.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22784.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22785.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22786.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22787.jpg,"hot dog, hot dog",0.5860731601715088,unclassified
+data/raw/images/lobelia4cosmetics/22788.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22789.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22790.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22791.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22792.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22793.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22794.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22795.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22796.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22797.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22798.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22799.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22800.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22801.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22802.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22803.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22804.jpg,bottle,0.7991387844085693,product_listing
+data/raw/images/lobelia4cosmetics/22805.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22806.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22807.jpg,bottle,0.9407469630241394,product_listing
+data/raw/images/lobelia4cosmetics/22808.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22809.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22810.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22811.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22812.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22813.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22814.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22815.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22816.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22817.jpg,bottle,0.940760612487793,product_listing
+data/raw/images/lobelia4cosmetics/22818.jpg,bottle,0.9543537497520447,product_listing
+data/raw/images/lobelia4cosmetics/22819.jpg,bottle,0.841687023639679,product_listing
+data/raw/images/lobelia4cosmetics/22820.jpg,bottle,0.7357080578804016,product_listing
+data/raw/images/lobelia4cosmetics/22821.jpg,bottle,0.9070147275924683,product_listing
+data/raw/images/lobelia4cosmetics/22822.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22823.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22824.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22825.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22826.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22827.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22828.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22829.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22830.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22831.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22832.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22833.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22834.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22835.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22836.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22837.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22838.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22839.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22840.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22841.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22842.jpg,bottle,0.7326316237449646,product_listing
+data/raw/images/lobelia4cosmetics/22843.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22844.jpg,person,0.7900387644767761,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22845.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22846.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22847.jpg,bottle,0.8006813526153564,product_listing
+data/raw/images/lobelia4cosmetics/22848.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22849.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22850.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22851.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22852.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22853.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22854.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22855.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22856.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22857.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22858.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22859.jpg,bottle,0.579176127910614,product_listing
+data/raw/images/lobelia4cosmetics/22860.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22861.jpg,person,0.5967599749565125,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22862.jpg,bottle,0.9318893551826477,product_listing
+data/raw/images/lobelia4cosmetics/22863.jpg,bottle,0.904463529586792,product_listing
+data/raw/images/lobelia4cosmetics/22864.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22865.jpg,bottle,0.7241219878196716,product_listing
+data/raw/images/lobelia4cosmetics/22866.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22867.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22868.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22869.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22870.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22871.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22872.jpg,"bottle, bottle",0.9156719446182251,product_listing
+data/raw/images/lobelia4cosmetics/22873.jpg,bottle,0.8690327405929565,product_listing
+data/raw/images/lobelia4cosmetics/22874.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22875.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22876.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22877.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22878.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22879.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22880.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22881.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22882.jpg,bottle,0.8308451175689697,product_listing
+data/raw/images/lobelia4cosmetics/22883.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22884.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22885.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22886.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22887.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22888.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22889.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22890.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22891.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22892.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22893.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22894.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22895.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22896.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6552391052246094,product_listing
+data/raw/images/lobelia4cosmetics/22897.jpg,"bottle, bottle, bottle, bottle, bottle, bottle",0.8551762700080872,product_listing
+data/raw/images/lobelia4cosmetics/22898.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22899.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22900.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22901.jpg,bottle,0.519117534160614,product_listing
+data/raw/images/lobelia4cosmetics/22902.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22903.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22904.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22905.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22906.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22907.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22908.jpg,"orange, orange",0.6904147863388062,unclassified
+data/raw/images/lobelia4cosmetics/22909.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22910.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22911.jpg,bottle,0.570781409740448,product_listing
+data/raw/images/lobelia4cosmetics/22912.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22913.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22914.jpg,bottle,0.5016918182373047,product_listing
+data/raw/images/lobelia4cosmetics/22915.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22916.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22917.jpg,person,0.6789193153381348,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22918.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22919.jpg,cake,0.5485908389091492,unclassified
+data/raw/images/lobelia4cosmetics/22920.jpg,bottle,0.901940643787384,product_listing
+data/raw/images/lobelia4cosmetics/22921.jpg,bottle,0.8162497282028198,product_listing
+data/raw/images/lobelia4cosmetics/22922.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22923.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22924.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22925.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22926.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22927.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22928.jpg,bottle,0.869976282119751,product_listing
+data/raw/images/lobelia4cosmetics/22929.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22930.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22931.jpg,person,0.624140202999115,lifestyle_shot
+data/raw/images/lobelia4cosmetics/22932.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22933.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22934.jpg,bottle,0.5879692435264587,product_listing
+data/raw/images/lobelia4cosmetics/22935.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22936.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22937.jpg,"orange, orange",0.6904147863388062,unclassified
+data/raw/images/lobelia4cosmetics/22938.jpg,,0.0,unclassified
+data/raw/images/lobelia4cosmetics/22939.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185297.jpg,"scissors, scissors, scissors",0.903871476650238,unclassified
+data/raw/images/tikvahpharma/185298.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185299.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185302.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185346.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185364.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185376.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185378.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185440.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185465.jpg,person,0.6217171549797058,lifestyle_shot
+data/raw/images/tikvahpharma/185466.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185475.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185479.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185510.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185516.jpg,"scissors, scissors, scissors",0.903871476650238,unclassified
+data/raw/images/tikvahpharma/185517.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185538.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185540.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185541.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185554.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185564.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185565.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185590.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185608.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185609.jpg,dog,0.8837748765945435,unclassified
+data/raw/images/tikvahpharma/185611.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185612.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185622.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185623.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185630.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185635.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185652.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185654.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185670.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185685.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185686.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185695.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185696.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185706.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185715.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185716.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185727.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185747.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185748.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185749.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185759.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185760.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185770.jpg,"person, person",0.8394247889518738,lifestyle_shot
+data/raw/images/tikvahpharma/185820.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185834.jpg,laptop,0.7114839553833008,unclassified
+data/raw/images/tikvahpharma/185835.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185836.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/185859.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185860.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/185861.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185890.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/185891.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/185894.jpg,"scissors, scissors, scissors",0.903871476650238,unclassified
+data/raw/images/tikvahpharma/185895.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/185911.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186018.jpg,person,0.5397405028343201,lifestyle_shot
+data/raw/images/tikvahpharma/186028.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186029.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/186039.jpg,laptop,0.7114839553833008,unclassified
+data/raw/images/tikvahpharma/186056.jpg,person,0.5397405028343201,lifestyle_shot
+data/raw/images/tikvahpharma/186075.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186083.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186086.jpg,"scissors, scissors, scissors",0.903871476650238,unclassified
+data/raw/images/tikvahpharma/186087.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186089.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186156.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186175.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186176.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186181.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/186182.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186183.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186184.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186185.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186186.jpg,"bottle, bottle, refrigerator, bottle",0.7497235536575317,product_listing
+data/raw/images/tikvahpharma/186187.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.6262067556381226,product_listing
+data/raw/images/tikvahpharma/186188.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7137064337730408,product_listing
+data/raw/images/tikvahpharma/186189.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/186191.jpg,person,0.5397405028343201,lifestyle_shot
+data/raw/images/tikvahpharma/186291.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/186305.jpg,person,0.5397405028343201,lifestyle_shot
+data/raw/images/tikvahpharma/186328.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186329.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186365.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/186368.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186380.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186382.jpg,"person, person, person, person, person, person, person, person, tv, person",0.8395057916641235,lifestyle_shot
+data/raw/images/tikvahpharma/186401.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/186411.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186414.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186415.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186420.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186423.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186424.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186439.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186464.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186468.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186473.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186485.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186486.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186490.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186498.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186522.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186523.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186525.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186541.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186542.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186547.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186567.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186695.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186702.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186705.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186725.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186727.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186736.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186737.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186756.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186762.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186765.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/186766.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/186835.jpg,"scissors, scissors, scissors",0.903871476650238,unclassified
+data/raw/images/tikvahpharma/186836.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186945.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186946.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186972.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/186976.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187284.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187292.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187343.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187347.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187348.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187352.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187353.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187354.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187363.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187364.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187365.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187366.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187368.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187369.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187370.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187372.jpg,person,0.5540180802345276,lifestyle_shot
+data/raw/images/tikvahpharma/187381.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187382.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187383.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187384.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187385.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187386.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187388.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187389.jpg,person,0.5540180802345276,lifestyle_shot
+data/raw/images/tikvahpharma/187390.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187393.jpg,person,0.5540180802345276,lifestyle_shot
+data/raw/images/tikvahpharma/187394.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187397.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187398.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187399.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187403.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187407.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187408.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187410.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187413.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187414.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187415.jpg,laptop,0.922065019607544,unclassified
+data/raw/images/tikvahpharma/187416.jpg,microwave,0.6627152562141418,unclassified
+data/raw/images/tikvahpharma/187421.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187425.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187427.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187430.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187431.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187433.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187442.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187443.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187444.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187445.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187447.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187449.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187451.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187452.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187455.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187457.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187458.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187459.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187460.jpg,laptop,0.5650953054428101,unclassified
+data/raw/images/tikvahpharma/187461.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187463.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187464.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187465.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187466.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187472.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187473.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187474.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187476.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187477.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187478.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187480.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187481.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187482.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187485.jpg,"person, person, person, person, person, person",0.8231128454208374,lifestyle_shot
+data/raw/images/tikvahpharma/187489.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187491.jpg,"person, person, person, person, person, person",0.8231128454208374,lifestyle_shot
+data/raw/images/tikvahpharma/187492.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187493.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187495.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187497.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187502.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187505.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187509.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187510.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187513.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187516.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187517.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187518.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187521.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187522.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187525.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187526.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187527.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187529.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187535.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187536.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187537.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187539.jpg,cup,0.559075653553009,unclassified
+data/raw/images/tikvahpharma/187540.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187541.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187545.jpg,"person, person, person, person",0.6827182173728943,lifestyle_shot
+data/raw/images/tikvahpharma/187546.jpg,tv,0.581887423992157,unclassified
+data/raw/images/tikvahpharma/187560.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187576.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187577.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187584.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187585.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187605.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187607.jpg,"person, person, person, person",0.6827182173728943,lifestyle_shot
+data/raw/images/tikvahpharma/187612.jpg,person,0.5812395811080933,lifestyle_shot
+data/raw/images/tikvahpharma/187613.jpg,person,0.8280333280563354,lifestyle_shot
+data/raw/images/tikvahpharma/187614.jpg,"person, person, person, person",0.9158505797386169,lifestyle_shot
+data/raw/images/tikvahpharma/187615.jpg,laptop,0.7441077828407288,unclassified
+data/raw/images/tikvahpharma/187616.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187617.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187618.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187640.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187662.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187664.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187666.jpg,laptop,0.6669805645942688,unclassified
+data/raw/images/tikvahpharma/187670.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187675.jpg,laptop,0.6669805645942688,unclassified
+data/raw/images/tikvahpharma/187680.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187682.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187683.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187684.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187685.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7137064337730408,product_listing
+data/raw/images/tikvahpharma/187693.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187694.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187695.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187696.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187697.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187703.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7137064337730408,product_listing
+data/raw/images/tikvahpharma/187712.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187713.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187714.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187716.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187718.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187721.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187724.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187725.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187726.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187727.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187728.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187729.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187733.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187736.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187739.jpg,laptop,0.6669805645942688,unclassified
+data/raw/images/tikvahpharma/187741.jpg,book,0.7383891344070435,unclassified
+data/raw/images/tikvahpharma/187743.jpg,book,0.7383891344070435,unclassified
+data/raw/images/tikvahpharma/187746.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187751.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187752.jpg,chair,0.5352357625961304,unclassified
+data/raw/images/tikvahpharma/187755.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187761.jpg,"person, person, person, person, person, person, person",0.8438909649848938,lifestyle_shot
+data/raw/images/tikvahpharma/187762.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187763.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187768.jpg,tv,0.6138461828231812,unclassified
+data/raw/images/tikvahpharma/187770.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187772.jpg,"person, person, person, person, person, person, person",0.8438909649848938,lifestyle_shot
+data/raw/images/tikvahpharma/187774.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187775.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187777.jpg,microwave,0.764251172542572,unclassified
+data/raw/images/tikvahpharma/187778.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187779.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187785.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187789.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187794.jpg,"person, person, person, person, person, person, person",0.8438909649848938,lifestyle_shot
+data/raw/images/tikvahpharma/187795.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187797.jpg,"person, person, person, person, person, person",0.8231128454208374,lifestyle_shot
+data/raw/images/tikvahpharma/187801.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187804.jpg,"person, person, person, person, person, person",0.8231128454208374,lifestyle_shot
+data/raw/images/tikvahpharma/187805.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187806.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/187807.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187808.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187809.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/187810.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187811.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187813.jpg,"person, person, person, person, person, person",0.8231128454208374,lifestyle_shot
+data/raw/images/tikvahpharma/187815.jpg,remote,0.8316534161567688,unclassified
+data/raw/images/tikvahpharma/187817.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187818.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187819.jpg,cup,0.559075653553009,unclassified
+data/raw/images/tikvahpharma/187823.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187824.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/187825.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187826.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187827.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/187828.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187829.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187834.jpg,remote,0.8316534161567688,unclassified
+data/raw/images/tikvahpharma/187837.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187839.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187846.jpg,person,0.8606737852096558,lifestyle_shot
+data/raw/images/tikvahpharma/187847.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187860.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187865.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187868.jpg,remote,0.8316534161567688,unclassified
+data/raw/images/tikvahpharma/187893.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/187894.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187929.jpg,remote,0.7461308836936951,unclassified
+data/raw/images/tikvahpharma/187930.jpg,book,0.5088958740234375,unclassified
+data/raw/images/tikvahpharma/187931.jpg,bottle,0.8909876942634583,product_listing
+data/raw/images/tikvahpharma/187938.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187956.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187967.jpg,"person, person, person, person, person",0.9064990282058716,lifestyle_shot
+data/raw/images/tikvahpharma/187972.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/187986.jpg,microwave,0.764251172542572,unclassified
+data/raw/images/tikvahpharma/187987.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188002.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188015.jpg,"person, person, person, clock",0.818695604801178,lifestyle_shot
+data/raw/images/tikvahpharma/188016.jpg,clock,0.5965015888214111,unclassified
+data/raw/images/tikvahpharma/188017.jpg,person,0.843499481678009,lifestyle_shot
+data/raw/images/tikvahpharma/188031.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188038.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188046.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188047.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188058.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188076.jpg,"sports ball, person, scissors",0.7583149671554565,lifestyle_shot
+data/raw/images/tikvahpharma/188095.jpg,"person, person, person, person, person, person, person",0.8438909649848938,lifestyle_shot
+data/raw/images/tikvahpharma/188102.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188103.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/188104.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188105.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188106.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/188107.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188113.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188152.jpg,"sports ball, person, scissors",0.7583149671554565,lifestyle_shot
+data/raw/images/tikvahpharma/188172.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188173.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188189.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188190.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/188191.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188192.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188193.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/188194.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188199.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188214.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188225.jpg,"person, person, person, clock",0.818695604801178,lifestyle_shot
+data/raw/images/tikvahpharma/188226.jpg,person,0.843499481678009,lifestyle_shot
+data/raw/images/tikvahpharma/188227.jpg,clock,0.5965015888214111,unclassified
+data/raw/images/tikvahpharma/188228.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188229.jpg,refrigerator,0.5957845449447632,unclassified
+data/raw/images/tikvahpharma/188230.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188257.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188277.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188278.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188279.jpg,bottle,0.8979737162590027,product_listing
+data/raw/images/tikvahpharma/188283.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188284.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/188285.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188286.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188287.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/188288.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188320.jpg,"person, person, person, clock",0.818695604801178,lifestyle_shot
+data/raw/images/tikvahpharma/188321.jpg,clock,0.5999191999435425,unclassified
+data/raw/images/tikvahpharma/188322.jpg,person,0.843499481678009,lifestyle_shot
+data/raw/images/tikvahpharma/188357.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188363.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188367.jpg,"person, person",0.841100811958313,lifestyle_shot
+data/raw/images/tikvahpharma/188382.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188403.jpg,bottle,0.8979737162590027,product_listing
+data/raw/images/tikvahpharma/188420.jpg,laptop,0.6112249493598938,unclassified
+data/raw/images/tikvahpharma/188429.jpg,bottle,0.8979737162590027,product_listing
+data/raw/images/tikvahpharma/188433.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188442.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188443.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188451.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188509.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188517.jpg,laptop,0.6149004101753235,unclassified
+data/raw/images/tikvahpharma/188527.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/188535.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188561.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188574.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/188575.jpg,laptop,0.6149004101753235,unclassified
+data/raw/images/tikvahpharma/188580.jpg,"person, sheep, person, sheep",0.829123318195343,lifestyle_shot
+data/raw/images/tikvahpharma/188581.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188585.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188607.jpg,bottle,0.6094383597373962,product_listing
+data/raw/images/tikvahpharma/188627.jpg,"person, person",0.841100811958313,lifestyle_shot
+data/raw/images/tikvahpharma/188634.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188640.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/188693.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188710.jpg,laptop,0.6149004101753235,unclassified
+data/raw/images/tikvahpharma/188750.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188764.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188765.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188778.jpg,"person, person, person, person, person, person",0.7323751449584961,lifestyle_shot
+data/raw/images/tikvahpharma/188807.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188808.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188810.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/188833.jpg,"person, person, person, clock",0.824088454246521,lifestyle_shot
+data/raw/images/tikvahpharma/188834.jpg,refrigerator,0.5246831774711609,unclassified
+data/raw/images/tikvahpharma/188868.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/188872.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188875.jpg,"sports ball, person",0.7996249794960022,lifestyle_shot
+data/raw/images/tikvahpharma/188876.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188877.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188878.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188883.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188885.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188887.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188888.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188889.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188890.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188891.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188900.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188901.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188903.jpg,"sports ball, person",0.7996249794960022,lifestyle_shot
+data/raw/images/tikvahpharma/188907.jpg,"sports ball, person",0.7996249794960022,lifestyle_shot
+data/raw/images/tikvahpharma/188914.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188915.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188920.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188926.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188927.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188931.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188936.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188938.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188940.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188941.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188942.jpg,"scissors, scissors, scissors",0.9073543548583984,unclassified
+data/raw/images/tikvahpharma/188954.jpg,"sports ball, person",0.7996249794960022,lifestyle_shot
+data/raw/images/tikvahpharma/188960.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188962.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/188970.jpg,person,0.7788910269737244,lifestyle_shot
+data/raw/images/tikvahpharma/188973.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188975.jpg,"person, person",0.6697068214416504,lifestyle_shot
+data/raw/images/tikvahpharma/188979.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188981.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188982.jpg,"bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle",0.8333331942558289,product_listing
+data/raw/images/tikvahpharma/188983.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188984.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188985.jpg,refrigerator,0.9096158146858215,unclassified
+data/raw/images/tikvahpharma/188986.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188990.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188991.jpg,"book, book",0.5122956037521362,unclassified
+data/raw/images/tikvahpharma/188993.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/188996.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/188997.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/189002.jpg,"person, person, person, clock",0.8240984082221985,lifestyle_shot
+data/raw/images/tikvahpharma/189003.jpg,clock,0.5962013006210327,unclassified
+data/raw/images/tikvahpharma/189007.jpg,"bottle, bottle, bottle, refrigerator, bottle, bottle",0.7155647277832031,product_listing
+data/raw/images/tikvahpharma/189010.jpg,,0.0,unclassified
+data/raw/images/tikvahpharma/189011.jpg,"chair, person, person, keyboard, cup, person, person, tv, mouse, laptop",0.8901018500328064,lifestyle_shot
+data/raw/images/tikvahpharma/189012.jpg,"person, person, person, person, person, person, person, person, person, person, person, person",0.835442066192627,lifestyle_shot
+data/raw/images/tikvahpharma/189013.jpg,"person, person, person, person, person, person, person, person, person",0.9043029546737671,lifestyle_shot
+data/raw/images/tikvahpharma/189014.jpg,"person, person, person, person, person, person, person, handbag, person, person, person, person, person",0.8708752989768982,lifestyle_shot
+data/raw/images/tikvahpharma/189015.jpg,"person, person, person, person, person, person, person, person, person, person, person, person, person, person",0.8516662120819092,lifestyle_shot
+data/raw/images/tikvahpharma/189016.jpg,"person, person, person, person, person, person, person, person, person",0.9118748903274536,lifestyle_shot
+data/raw/images/tikvahpharma/189017.jpg,"person, person, person, tv",0.8632494807243347,lifestyle_shot
+data/raw/images/tikvahpharma/189018.jpg,"person, person, person, person, person",0.8415622711181641,lifestyle_shot
+data/raw/images/tikvahpharma/189019.jpg,"person, person, person, person",0.9120910167694092,lifestyle_shot
+data/raw/images/tikvahpharma/189020.jpg,"person, person, person, person, potted plant, person",0.924875795841217,lifestyle_shot
