@@ -1,5 +1,10 @@
 Telethon
 ultralytics
 pandas
-psycopg2
+psycopg2-binary
 dbt-postgres
+fastapi
+uvicorn
+sqlalchemy
+dagster 
+dagster-webserver
