@@ -28,9 +28,7 @@ def setup_logger():
     # add all  to logger 
     logger.addHandler(rotating_handler)
     logger.addHandler(error_handler)
-
+  
     return logger
-
-
 
 
